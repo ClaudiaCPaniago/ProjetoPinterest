@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.perfil {
+    border-radius: 150px;
+    max-width: 8%;
+
+}
+
+.img-perfil {
+    text-align: center;
+    
+}
+
+div {
+    text-align: center;
+}
+
+.album-nome {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.imagens {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+}
+
+.grid-imagens {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    width: auto;
+    height: auto;
+    padding-top: 3%;
+
+}
